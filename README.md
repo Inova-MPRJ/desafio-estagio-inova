@@ -71,31 +71,31 @@ Essas notas serão somadas e divididas para uma média entre os dois revisores. 
 
 ## Perguntas (que achamos que serão as mais) frequentes
 
-- Posso usar outros conjuntos de dados também?
+- *Posso usar outros conjuntos de dados também?*
 **R:** Claro! Inclusive, vamos gostar de ver isso. Mas lembre-se de documentar de onde você tirou tudo. E cuidado para não fugir do tema, nem se perder em análises muito extensas.
 
-- E se eu precisar conhecer mais sobre o tema?
+- *E se eu precisar conhecer mais sobre o tema?*
 **R:** *Descobre aê*. Tentamos manter um bom equilíbrio com os nossos estagiários entre dar o apoio que eles precisam e estimular a autonomia e a iniciativa de aprender coisas novas por si próprios. Valorizamos as questões (respondidas ou não) e os aprendizados que surgirem ao longo do processo - por isso, não deixe de documentá-las bem na sua entrega.
 Em todo caso, se quiser um lugar por onde começar, não deixe de consultar a primeira parte da [seção "Boas práticas"](http://www.mprj.mp.br/documents/20184/1478516/index.html/#secao6), no relatório do B_Guanabara. Ali, resumimos as principais conclusões no nosso próprio processo de aprendizado sobre obras públicas e linkamos alguns documentos nos quais nos baseamos.
 
-- Posso usar qualquer linguagem de programação?
+- *Posso usar qualquer linguagem de programação?*
 **R:** Sim. Nosso time de dados é fluente em Python e R. Se você usar outra linguagem, apenas redobre os cuidados com a legibilidade do código e a inserção de comentários e *docstrings* no código. Esperamos que não seja difícil ler nenhum código bem escrito, independentemente da linguagem escolhida.
 
-- E Excel (ou outro software de planilhas), vale?
+- *E Excel (ou outro software de planilhas), vale?*
 **R:** Vale... Nesse caso, considere como "código fonte" a própria planilha, com qualquer passo intermediário utilizado. Se usar VBA, ele também conta como código fonte.
 
-- Como entrego o resultado?
+- *Como entrego o resultado?*
 **R:** Após o final do prazo, vamos visitar as contas de GitHub informadas na inscrição e buscar entre os últimos repositórios com *commits*. Se não conseguirmos identificar o repositório relativo ao desafio, o(a) candidato(a) será desclassificado(a).
 
-- Quanto sai o resultado?
+- *Quanto sai o resultado?*
 **R:** Esperamos conseguir avaliar tudo em até uma semana após o encerramento do prazo de entrega - mas essa é *só uma previsão*.
 
-- Vocês vão avisar quem não passar para a próxima etapa?
+- *Vocês vão avisar quem não passar para a próxima etapa?*
 **R:** Com certeza. Mesmo se você não for selecionado(a) para a próxima etapa, vamos mandar um e-mail avisando o resultado.
 
-- Qual é a próxima etapa?
+- *Qual é a próxima etapa?*
 **R:** A próxima etapa são as entrevistas com o time de dados e com o restante da equipe. Dependendo do número de classificados para a última etapa, a primeira dessas duas poderá ser em grupo ou individual. Daremos mais detalhes junto com o resultado.
 
-- Tenho uma dúvida que não está aqui. Onde posso perguntar?
+- *Tenho uma dúvida que não está aqui. Onde posso perguntar?*
 **R:** Você pode [abrir uma issue](https://github.com/Inova-MPRJ/desafio-estagio-inova/issues) neste repositório. Assim, garantimos que uma dúvida que pode ser de mais gente seja respondida apenas uma vez pela nossa equipe.
 Se você tiver uma questão exclusivamente pessoal, entre em contato com o nosso e-mail: [inova@mprj.mp.br](mailto:inova@mprj.mp.br). Em ambos os casos, vamos tentar responder o mais breve possível.
