@@ -97,5 +97,5 @@ Em todo caso, se quiser um lugar por onde começar, não deixe de consultar a pr
 **R:** A próxima etapa são as entrevistas com o time de dados e com o restante da equipe. Dependendo do número de classificados para a última etapa, a primeira dessas duas poderá ser em grupo ou individual. Daremos mais detalhes junto com o resultado.
 
 - Tenho uma dúvida que não está aqui. Onde posso perguntar?
-**R:** Você pode [abrir uma issue](https://github.com/github/desafio-inova-dados/issues) neste repositório. Assim, garantimos que uma dúvida que pode ser de mais gente seja respondida apenas uma vez pela nossa equipe.
+**R:** Você pode [abrir uma issue](https://github.com/Inova-MPRJ/desafio-estagio-inova/issues) neste repositório. Assim, garantimos que uma dúvida que pode ser de mais gente seja respondida apenas uma vez pela nossa equipe.
 Se você tiver uma questão exclusivamente pessoal, entre em contato com o nosso e-mail: [inova@mprj.mp.br](mailto:inova@mprj.mp.br). Em ambos os casos, vamos tentar responder o mais breve possível.
