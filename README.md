@@ -57,7 +57,7 @@ Opcionalmente, você pode trabalhar também com a [planilha de obras paralisadas
 Cada entrega será avaliada separadamente por duas pessoas do nosso time de dados. Cada um deles dará notas de 1 a 5 (1-muito ruim; 2-ruim; 3-ok; 4-bom; 5-muito bom) para duas dimensões:
 
 - Código fonte e domínio técnico
-    - Domínio de todas as [operações mínimas indicadas](#conteudo-minimo-da-analise);
+    - Domínio de todas as [operações mínimas indicadas](https://github.com/Inova-MPRJ/desafio-estagio-inova/blob/master/README.md#conte%C3%BAdo-m%C3%ADnimo-da-an%C3%A1lise);
     - Qualidade do código (legibilidade, economia de código e processamento, melhores práticas do paradigma de programação adotado etc.);
     - Criatividade na seleção de agrupamentos, filtros e cruzamentos, e alinhamento deles com a pergunta central do desafio.
 
